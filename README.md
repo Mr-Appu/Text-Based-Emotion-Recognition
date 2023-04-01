@@ -8,7 +8,7 @@ To use this web application, you need to follow these steps:
 
 ```bash
 # Clone the repository to your local machine.
-git clone https://github.com/lemontree404/Fuel-Planner.git
+git clone https://github.com/Mr-Appu/Text-Based-Emotion-Recognition.git
 
 # Create a virtual environment and activate it.
 python -m virtual env
